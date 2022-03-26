@@ -1,0 +1,8 @@
+@charset "ISO-8859-1";
+.admin .card{
+	border: 1px solid black;
+}
+.list-group-item .active{
+	background:dark !important;
+	text:white!important;
+}
